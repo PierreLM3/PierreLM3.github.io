@@ -5,6 +5,8 @@ docs:
         url: /fr/tarifs/
       - title: "Avis"
         url: /fr/avis/
+      - title: "Les plus"
+        url: /fr/plus/
   - title: "English"
     children:
       - title: "Tarifs et disponibilités"
