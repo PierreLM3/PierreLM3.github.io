@@ -23,6 +23,10 @@ gallery:
     image_path: /images/lesplus/zevelo_-_copie.jpg
   - url: /images/lesplus/chapelle_intrieur.jpg
     image_path: /images/lesplus/chapelle_intrieur.jpg
+
+title: "Les plus"
+header:
+  overlay_image: /images/lesplus/3gdf_poele_chalet_refuge_montgesin_plagne.jpg
 ---
 
 {% include gallery %}

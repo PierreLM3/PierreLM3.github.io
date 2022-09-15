@@ -2,6 +2,10 @@
 permalink: /
 sidebar:
   nav: "docs"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /images/photos/1exx_pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 gallery:
   - url: /images/accueil/extrieur-t.JPG
     image_path: /images/accueil/extrieur-t.JPG
@@ -22,7 +26,10 @@ gallery2:
   - image_path: /images/banniere_menu/CV_Connect-PNG.png
   - url: https://www.familleplus.fr/fr/le-label
     image_path: /images/banniere_menu/Logo_Fplus.png
-
+    
+title: ""
+header:
+  overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 ---
 
 {% include gallery %}

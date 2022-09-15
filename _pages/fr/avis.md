@@ -2,6 +2,9 @@
 permalink: /fr/avis/
 sidebar:
   nav: "docs"
+title: "Avis et commentaires"
+header:
+  overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 ---
 
 En 2021, grâce aux avis déposés par nos vacanciers, notre chalet s'est vu remettre par les Gîtes de France la récompense "Trophées Clients 2020".

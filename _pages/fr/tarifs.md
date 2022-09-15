@@ -2,6 +2,9 @@
 permalink: /fr/tarifs/
 sidebar:
   nav: "docs"
+title: "Disponibilités"
+header:
+  overlay_image: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg
 ---
 
 |                         Dates                        | Tarifs |

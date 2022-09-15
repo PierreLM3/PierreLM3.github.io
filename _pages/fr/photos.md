@@ -39,7 +39,10 @@ gallery:
   - image_path: /images/photos/pancarte.jpg
   - image_path: /images/photos/cave.JPG
   - image_path: /images/photos/1exx_18gdf_cuisine_chalet_refuge_montgesin_plagne.jpg
-     
+
+title: "Galerie photos"
+header:
+  overlay_image: /images/photos/1exx_18gdf_cuisine_chalet_refuge_montgesin_plagne.jpg
 ---
 
 {% include gallery %}
