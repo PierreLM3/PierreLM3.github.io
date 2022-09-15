@@ -1,8 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
 ---
 
 <html>
@@ -11,58 +7,16 @@ layout: home
     <script type="text/javascript" src="https://widget.itea.fr/js/itea_widget.js"></script
   </head>
   <body>
-      
-{% for item in site.data.menu.toc %}
-    <h3>{{ item.title }}</h3>
-      <ul>
-        {% for entry in item.subfolderitems %}
-          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-        {% endfor %}
-      </ul>
-{% endfor %}
   
-    <table style="text-align:center;margin-left: auto;margin-right: auto;" border="1" width="500">
-  <colgroup>
-    <col width="1000">
-    <col width="100">
-  </colgroup>
-<tbody>
+   <p style="text-align: justify;">Un art de vivre contemporain à la montagne : tel est le principe qui a guidé la conception et la décoration du chalet Le Refuge de Montgésin, destiné à accueillir une tribu ou une famille de 10 personnes. Le chalet est labellisé Famille Plus et un kit bébé est mis à disposition gratuitement.</p>
+<p style="text-align: justify;">Ce chalet indépendant est situé au-dessus de la station de Plagne Montalbert, à 1500 mètres d'altitude, dans le hameau de Montgésin qui abrite la chapelle baroque ND des Neiges.</p>
+<p style="text-align: justify;">L’hiver, les skieurs rejoindront facilement la nouvelle télécabine de Montalbert assurant la liaison vers le domaine skiable de La Plagne – Paradiski. Le retour à ski se fait via la piste du Gentil selon l'enneigement. Le chalet est un point de départ pour de nombreuses explorations en raquettes, à ski de rando ou simplement à pied.</p>
+<p style="text-align: justify;">L'été, les amateurs de balades à pied ou en VTT profiteront des sentiers vers Montalbert, ND du Pré ou le massif du Mont Jovet.</p>
+<p style="text-align: justify;">Les contemplatifs se loveront dans les coussins de laine des banquettes intégrées dans la structure du chalet pour profiter du paysage.</p>
+<p style="text-align: justify;">Tous apprécieront le confort de la très belle pièce à vivre, des quatre chambres spacieuses, et des deux salles de bain de ce chalet classé 4 épis par les Gîtes de France.</p>
+<p> </p>
 
-<tr>
-   <th>Dates</th>
-   <th>Tarifs</th>
-</tr>
-<tr>
-  <td>semaine hiver hors vacances scolaires Noël & février</td>
-  <td>1700&nbsp;€</td>
-<tr>
-  <td>semaine hiver vacances scolaires Noël & février</td>
-  <td>3400&nbsp;€</td>
-<tr>
-  <td>été & hors saison</td>
-  <td>950&nbsp;€</td>
-</tr>
-</tr>
-</tbody>
-</table>
 
-<br/>
-<p>VACANCES de NÖEL 2022 et NOUVEL AN 2023 : du fait des nombreuses possibilités, pour connaître le tarif, utilisez l'outil de réservation en bas de page ou contactez nous. </p>
-
-<p>En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les week-ends, nous consulter. </p>
-
-<p>Le tarif ci-dessus est le tarif toutes charges comprises, pour 7 nuits - voir les disponibilités ci-dessous. Pour des week-ends ou des courts séjours, nous consulter. Un kit bébé (lit, chaise haute, baignoire, ...) est mis à disposition gracieusement. </p>
-<p>Sauf arrangement spécifique, les arrivées se font à partir de 16 heures et les départs au plus tard à 10 heures.</p>
-<p>Le tarif ne comprend pas les prestations complémentaires proposées ci-dessous, ni la taxe de séjour (2,48 euros par personne de plus de 18 ans et par jour).</p>
-<p>Les prestations complémentaires qui peuvent vous être proposées sont les suivantes :</p>
-<p>- le fourniture de draps : kit lit 1 place - 10 euros, kit lit 2 places 12 euros - dans ce cas, les chambres sont préparées suivant vos besoins ;</p>
-<p>- le fourniture de linge de toilette : 5 euros par personne ;</p>
-<p>- le ménage de fin de séjour pour 140 euros.</p>
-<p>Le contrat de location sera un contrat Gîtes de France.</p>
-<p>Un acompte de 25 % du montant de la location sera réclamé lors de l'établissement du contrat. Une caution ou dépôt de garantie d'un montant de 700 euros devra être remise lors de l'entrée dans les lieux.</p>
-<p>Les chèques vacances ANCV sont les bienvenus.</p>
-<p style="text-align: center;">
-  
 <script type='text/javascript'>
   var parametresWidget = {
     key : 'tftr8_fc',
@@ -71,4 +25,13 @@ layout: home
   };
   widgetIteaGL(parametresWidget);
 </script>
+
+
+<a href="http://www.montalbert.com" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/logo_montalbert2.png" alt="" height="60" width="80" style="border:10px solid white"/></a> 
+<a href="https://www.facebook.com/refuge.montgesin" target="_blank" rel="noreferrer"><img src="images/banniere_menu/facebook.jpeg" alt="" width="60" height="60" style="border:10px solid white"/></a> 
+<a href="https://youtu.be/efYn-qbrEOM" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/youtube.png" alt="" width="60" height="60" style="border:10px solid white"/></a>
+<a href="https://www.instagram.com/le_refuge_de_montgesin/" target="_blank" rel="noreferrer"><img src="images/banniere_menu/instagram.png" alt="" width="60" height="60" style="border:10px solid white" /></a>
+<img src="images/banniere_menu/meuble4etoiles.jpg" alt="" width="80" height="60" style="border:10px solid white" />
+<img src="images/banniere_menu/CV_Connect-PNG.png" alt="" width="150" height="100" style="border:10px solid white" />
+<a href="https://www.familleplus.fr/fr/le-label" target="_blank" rel="noreferrer"><img src="images/banniere_menu/Logo_Fplus.png" alt="" width="100" height="67" style="border:10px solid white" /></a>
 
