@@ -9,9 +9,9 @@ header:
 
 |                         Dates                        | Tarifs |
 |:----------------------------------------------------:|:------:|
-| semaine hiver hors vacances scolaires Noël & février | 1700 € |
-|    semaine hiver vacances scolaires Noël & février   | 3400 € |
-|                   été & hors saison                  |  950 € |
+| semaine hiver hors vacances scolaires Noël & février | 1700&nbsp;€ |
+|    semaine hiver vacances scolaires Noël & février   | 3400&nbsp;€ |
+|                   été & hors saison                  |  950&nbsp;€ |
 
 VACANCES de NÖEL 2022 et NOUVEL AN 2023 : du fait des nombreuses possibilités, pour connaître le tarif, utilisez l'outil de réservation en bas de page ou contactez nous.   
 
