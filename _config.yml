@@ -83,9 +83,12 @@ author:
   name             : "Christian Le Mouëllic"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : "Montgésin - Plagne Montalbert<br/>73210 Aime La Plagne"
+  location         : #"Montgésin - Plagne Montalbert<br/>73210 Aime La Plagne"
   email            :
   links:
+    - label: "Montgésin - Plagne Montalbert<br/>73210 Aime La Plagne"
+      icon: "fas fa-map-marked"
+      url: "https://g.page/refuge-montgesin?share"
     - label: "04 79 55 42 73"
       icon: "fas fa-phone"
       url: "tel:+33479554273"
