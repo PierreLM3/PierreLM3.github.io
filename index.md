@@ -32,7 +32,7 @@ gallery2:
   </head>
   <body>
   
-  {% include gallery layout="half" %}
+  {% include gallery %}
   
    <p style="text-align: justify;">Un art de vivre contemporain à la montagne : tel est le principe qui a guidé la conception et la décoration du chalet Le Refuge de Montgésin, destiné à accueillir une tribu ou une famille de 10 personnes. Le chalet est labellisé Famille Plus et un kit bébé est mis à disposition gratuitement.</p>
 <p style="text-align: justify;">Ce chalet indépendant est situé au-dessus de la station de Plagne Montalbert, à 1500 mètres d'altitude, dans le hameau de Montgésin qui abrite la chapelle baroque ND des Neiges.</p>
