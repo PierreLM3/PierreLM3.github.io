@@ -1,15 +1,19 @@
 docs:
   - title: "🇫🇷"
     children:
+      - title: "Descriptif"
+        url: /fr/descriptif/
       - title: "Galerie photos"
         url: /fr/photos/
       - title: "Les plus"
         url: /fr/plus/
+      - title: "Contact et réservation"
+        url: /fr/contact/
       - title: "Tarifs et disponibilités"
         url: /fr/tarifs/
       - title: "Accès et localisation"
         url: /fr/location/
-      - title: "Avis"
+      - title: "Avis et commentaires"
         url: /fr/avis/
   - title: "🇬🇧"
     children:
