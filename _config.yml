@@ -86,6 +86,12 @@ author:
   location         : "Montgésin - Plagne Montalbert<br/>73210 Aime La Plagne"
   email            :
   links:
+    - label: "04 79 55 42 73"
+      icon: "fas fa-phone"
+      url: "tel:+33479554273"
+    - label: "06 75 10 37 73"
+      icon: "fas fa-mobile"
+      url: "tel:+33675103773"
     - label: "lemouellic@aol.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lemouellic@aol.com"
