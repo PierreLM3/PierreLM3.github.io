@@ -59,5 +59,4 @@ sidebar:
   };
   widgetIteaGL(parametresWidget);
 </script>
-</p>
 
