@@ -1,5 +1,6 @@
 docs:
   - title: "🇫🇷"
+    url: /
     children:
       - title: "Descriptif"
         url: /fr/descriptif/

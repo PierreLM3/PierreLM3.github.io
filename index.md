@@ -58,8 +58,9 @@ Tous apprécieront le confort de la très belle pièce à vivre, des quatre cham
   };
   widgetIteaGL(parametresWidget);
 </script>
-</p>
-
+ </p>
+ 
+<p style="text-align: center;">
   <a href="http://www.montalbert.com" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/logo_montalbert2.png" alt="" height="60" width="80" style="border:10px  "/></a> 
       <a href="https://www.facebook.com/refuge.montgesin" target="_blank" rel="noreferrer"><img src="images/banniere_menu/facebook.jpeg" alt="" width="60" height="60" style="border:10px  "/></a> 
     <a href="https://youtu.be/efYn-qbrEOM" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/youtube.png" alt="" width="60" height="60" style="border:10px  "/></a>
@@ -67,3 +68,5 @@ Tous apprécieront le confort de la très belle pièce à vivre, des quatre cham
   <img src="images/banniere_menu/meuble4etoiles.jpg" alt="" width="80" height="60" style="border:10px  " />
   <img src="images/banniere_menu/CV_Connect-PNG.png" alt="" width="150" height="100" style="border:10px  " />
   <a href="https://www.familleplus.fr/fr/le-label" target="_blank" rel="noreferrer"><img src="images/banniere_menu/Logo_Fplus.png" alt="" width="100" height="67" style="border:10px  " /></a>
+  
+  </p>
