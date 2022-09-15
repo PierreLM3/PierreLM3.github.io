@@ -77,30 +77,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Christian Le Mouëllic"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : #"I am an **amazing** person."
+  location         : "Montgésin - Plagne Montalbert<br/>73210 Aime La Plagne"
   email            :
   links:
-    - label: "Email"
+    - label: "lemouellic@aol.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
+      url: "mailto:lemouellic@aol.com"
+    - label: "refuge.montgesin"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://www.facebook.com/refuge.montgesin"
+    - label: "le_refuge_de_montgesin"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/le_refuge_de_montgesin/"
 
 # Site Footer
 footer:
@@ -258,5 +249,5 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
 
