@@ -28,7 +28,7 @@ Le contrat de location sera un contrat Gîtes de France.
 Un acompte de 25 % du montant de la location sera réclamé lors de l'établissement du contrat. Une caution ou dépôt de garantie d'un montant de 700 euros devra être remise lors de l'entrée dans les lieux.  
 Les chèques vacances ANCV sont les bienvenus.  
 
-
+<p style="text-align: center;">
 <script type='text/javascript'>
   var parametresWidget = {
     key : 'tftr8_fc',
@@ -37,4 +37,4 @@ Les chèques vacances ANCV sont les bienvenus.
   };
   widgetIteaGL(parametresWidget);
 </script>
-
+</p>
