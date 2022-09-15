@@ -14,6 +14,9 @@
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+head_scripts:
+  - https://widget.itea.fr/js/itea_widget.js
+
 # Site Settings
 locale                   : "en-US"
 title: "Le refuge de Montgésin"
