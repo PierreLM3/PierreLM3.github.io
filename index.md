@@ -22,7 +22,6 @@ gallery2:
   - image_path: /images/banniere_menu/CV_Connect-PNG.png
   - url: https://www.familleplus.fr/fr/le-label
     image_path: /images/banniere_menu/Logo_Fplus.png
-classes: wide
 
 ---
 
@@ -54,4 +53,4 @@ classes: wide
 </script>
 
 
-{% include gallery id="gallery2" layout="dix" %}
+{% include gallery id="gallery2" %}
