@@ -1,6 +1,15 @@
 ---
+permalink: /
 sidebar:
   nav: "docs"
+gallery:
+  - url: /images/gallery_index/extrieur-t.JPG
+    image_path: /images/gallery_index/extrieur-t.JPG
+  - url: /images/gallery_index/ext_soirV.JPG
+    image_path: /images/gallery_index/ext_soirV.JPG
+  - url: /images/gallery_index/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
+    image_path: /images/gallery_index/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
+
 ---
 
 <html>
@@ -9,6 +18,8 @@ sidebar:
     <script type="text/javascript" src="https://widget.itea.fr/js/itea_widget.js"></script
   </head>
   <body>
+  
+  {% include gallery layout="half" %}
   
    <p style="text-align: justify;">Un art de vivre contemporain à la montagne : tel est le principe qui a guidé la conception et la décoration du chalet Le Refuge de Montgésin, destiné à accueillir une tribu ou une famille de 10 personnes. Le chalet est labellisé Famille Plus et un kit bébé est mis à disposition gratuitement.</p>
 <p style="text-align: justify;">Ce chalet indépendant est situé au-dessus de la station de Plagne Montalbert, à 1500 mètres d'altitude, dans le hameau de Montgésin qui abrite la chapelle baroque ND des Neiges.</p>

@@ -2,7 +2,9 @@ docs:
   - title: "Français"
     children:
       - title: "Tarifs et disponibilités"
-        url: /tarif-et-disponibilites
+        url: /fr/tarifs/
+      - title: "Avis"
+        url: /fr/avis/
   - title: "English"
     children:
       - title: "Tarifs et disponibilités"
