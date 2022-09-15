@@ -1,15 +1,17 @@
 docs:
-  - title: "Français"
+  - title: "🇫🇷"
     children:
-      - title: "Tarifs et disponibilités"
-        url: /fr/tarifs/
-      - title: "Avis"
-        url: /fr/avis/
-      - title: "Les plus"
-        url: /fr/plus/
       - title: "Galerie photos"
         url: /fr/photos/
-  - title: "English"
+      - title: "Les plus"
+        url: /fr/plus/
+      - title: "Tarifs et disponibilités"
+        url: /fr/tarifs/
+      - title: "Accès et localisation"
+        url: /fr/location/
+      - title: "Avis"
+        url: /fr/avis/
+  - title: "🇬🇧"
     children:
       - title: "Tarifs et disponibilités"
         url: /tarif-et-disponibilites

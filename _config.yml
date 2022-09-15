@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 head_scripts:
   - https://widget.itea.fr/js/itea_widget.js
 
 # Site Settings
-locale                   : "en-US"
-title: "Le refuge de Montgésin"
+locale                   : "fr-FR"
+title: "Chalet le Refuge de Montgésin	"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Christian Le Mouëllic"
