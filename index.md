@@ -3,12 +3,12 @@ permalink: /
 sidebar:
   nav: "docs"
 gallery:
-  - url: /images/gallery_index/extrieur-t.JPG
-    image_path: /images/gallery_index/extrieur-t.JPG
-  - url: /images/gallery_index/ext_soirV.JPG
-    image_path: /images/gallery_index/ext_soirV.JPG
-  - url: /images/gallery_index/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
-    image_path: /images/gallery_index/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
+  - url: /images/accueil/extrieur-t.JPG
+    image_path: /images/accueil/extrieur-t.JPG
+  - url: /images/accueil/ext_soirV.JPG
+    image_path: /images/accueil/ext_soirV.JPG
+  - url: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
+    image_path: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 
 ---
 
