@@ -17,7 +17,17 @@ docs:
       - title: "Avis et commentaires"
         url: /fr/avis/
   - title: "🇬🇧"
+    url: /uk/
     children:
-      - title: "Tarifs et disponibilités"
-        url: /tarif-et-disponibilites
+      - title: "Description"
+        url: /uk/descriptif/
+      - title: "Gallery"
+        url: /fr/photos/
+      - title: "Contact and booking"
+        url: /uk/contact/
+      - title: "Prices and availibilty"
+        url: /uk/tarifs/
+      - title: "Location"
+        url: /uk/location/
+
 
