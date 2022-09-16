@@ -17,7 +17,7 @@ VACANCES de NÖEL 2022 et NOUVEL AN 2023 : du fait des nombreuses possibilités,
 
 En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les week-ends, nous consulter.   
 
-Le tarif ci-dessus est le tarif toutes charges comprises, pour 7 nuits - voir les disponibilités ci-dessous. Pour des week-ends ou des courts séjours, nous consulter. Un kit bébé (lit, chaise haute, baignoire, ...) est mis à disposition gracieusement.   
+Le tarif ci-dessus est le tarif toutes charges comprises, pour 7 nuits - voir les disponibilités ci-dessous. Pour des week-ends ou des courts séjours, nous consulter. Un kit bébé (lit, chaise haute, baignoire… ) est mis à disposition gracieusement.   
 Sauf arrangement spécifique, les arrivées se font à partir de 16 heures et les départs au plus tard à 10 heures.  
 Le tarif ne comprend pas les prestations complémentaires proposées ci-dessous, ni la taxe de séjour (2,48 euros par personne de plus de 18 ans et par jour).  
 Les prestations complémentaires qui peuvent vous être proposées sont les suivantes :  
