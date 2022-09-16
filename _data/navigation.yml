@@ -19,6 +19,8 @@ docs:
   - title: "🇬🇧"
     url: /uk/
     children:
+      - title: "Home"
+        url: /uk/
       - title: "Description"
         url: /uk/descriptif/
       - title: "Gallery"
