@@ -11,7 +11,7 @@ gallery:
   - image_path: /images/descriptif/32gdf_salon_repas_chalet_refuge_montgesin_plagne.jpg
 ---
 
-The Refuge de Montgésin is a totally independent chalet fully equipped (wifi … ) with a nice contemporary decoration and stunning views on the mountains, this for 10 persons. There are three private parking places. The total surface is 146 m2 with 4 bedrooms on three levels:
+The Refuge de Montgésin is a totally independent chalet fully equipped (wifi … ) with a nice contemporary decoration and stunning views on the mountains, this for 10 persons. There are three private parking places. The total surface is 146 m² with 4 bedrooms on three levels:
 
  - the <a href="/uk/n-plus-un/">upper level</a> with one bedroom and a mezzanine with TV lounge
  - the <a href="/uk/rdc/">ground level</a> with the main entrance, living room, kitchen, one bedroom, one bathroom and separate toilet

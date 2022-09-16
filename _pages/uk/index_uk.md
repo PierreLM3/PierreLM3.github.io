@@ -24,7 +24,7 @@ This fully wooden and independent home is located above Plagne Montalbert in the
 
 
 Skiers can easily reach the new Plagne Montalbert gondola and enjoy the way back, down from Gentil slope which is 530 meters away.  
-Hikers and bikers can use the sunny path down to Plagne Montlabert.  
+Hikers and bikers can use the sunny path down to Plagne Montalbert.  
 
 
 All will enjoy the stunning views, the comfort of the beautiful living room, the four spacious bedrooms and two bathrooms in this chalet classified 4 stars by Gîtes de France.   
