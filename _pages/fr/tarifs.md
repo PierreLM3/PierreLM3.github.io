@@ -36,8 +36,7 @@ Les chèques vacances ANCV sont les bienvenus.
   var parametresWidget = {
     key : 'tftr8_fc',
     numGite : '73G148140',
-    widget : 'resa',
-    langue : 'UK'
+    widget : 'resa'
   };
   widgetIteaGL(parametresWidget);
 </script>
