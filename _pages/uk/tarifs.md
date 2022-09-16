@@ -10,7 +10,7 @@ header:
 
 |                         Dates                        | Price |
 |:----------------------------------------------------:|:------:|
-| winter week outside school holidays Christmas & February | 1700&nbsp;€ |
+| winter week except school holidays Christmas & February | 1700&nbsp;€ |
 |    winter week school holidays Christmas & February   | 3400&nbsp;€ |
 |                   summer & off season                  |  950&nbsp;€ |
 
