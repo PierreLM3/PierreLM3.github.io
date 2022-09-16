@@ -86,7 +86,7 @@ author:
   location         : #"Montgésin - Plagne Montalbert<br/>73210 Aime La Plagne"
   email            :
   links:
-    - label: "Montgésin - Plagne Montalbert<br/>73210 Aime La Plagne"
+    - label: "373 route de Montgésin - 73210 Aime-la-Plagne"
       icon: "fas fa-map-marked"
       url: "https://g.page/refuge-montgesin?share"
     - label: "04 79 55 42 73"
@@ -129,7 +129,7 @@ footer:
     - label: "le_refuge_de_montgesin"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/le_refuge_de_montgesin/"
-    - label: "Montgésin - 73210 Aime La Plagne"
+    - label: "373 route de Montgésin - 73210 Aime-la-Plagne"
       icon: "fas fa-map-marked"
       url: "https://g.page/refuge-montgesin?share"
 
