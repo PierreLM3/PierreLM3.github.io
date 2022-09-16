@@ -23,9 +23,14 @@ Le tarif ne comprend pas les prestations complémentaires proposées ci-dessous,
 Les prestations complémentaires qui peuvent vous être proposées sont les suivantes :  
 - le fourniture de draps : kit lit 1 place - 10 euros, kit lit 2 places 12 euros - dans ce cas, les chambres sont préparées suivant vos besoins ;  
 - le fourniture de linge de toilette : 5 euros par personne ;  
-- le ménage de fin de séjour pour 140 euros.  
-Le contrat de location sera un contrat Gîtes de France.  
+- le ménage de fin de séjour pour 140 euros. 
+ 
+Le contrat de location sera un contrat Gîtes de France. 
+
+ 
 Un acompte de 25 % du montant de la location sera réclamé lors de l'établissement du contrat. Une caution ou dépôt de garantie d'un montant de 700 euros devra être remise lors de l'entrée dans les lieux.  
+
+
 Les chèques vacances ANCV sont les bienvenus.  
 
 <p style="text-align: center;">
