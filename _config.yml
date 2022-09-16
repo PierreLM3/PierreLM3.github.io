@@ -89,31 +89,34 @@ author:
     - label: "Montgésin - Plagne Montalbert<br/>73210 Aime La Plagne"
       icon: "fas fa-map-marked"
       url: "https://g.page/refuge-montgesin?share"
-#    - label: "04 79 55 42 73"
-#      icon: "fas fa-phone"
+    - label: "04 79 55 42 73"
+      icon: "fas fa-phone"
 #      url: "tel:+33479554273"
-#    - label: "06 75 10 37 73"
-#      icon: "fas fa-mobile"
+    - label: "06 75 10 37 73"
+      icon: "fas fa-mobile"
 #      url: "tel:+33675103773"
     - label: "lemouellic@aol.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lemouellic@aol.com"
+#      url: "mailto:lemouellic@aol.com"
     - label: "refuge.montgesin"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/refuge.montgesin"
+#      url: "https://www.facebook.com/refuge.montgesin"
     - label: "le_refuge_de_montgesin"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/le_refuge_de_montgesin/"
+#      url: "https://www.instagram.com/le_refuge_de_montgesin/"
 
 # Site Footer
 footer:
   links:
+    - label: "lemouellic@aol.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lemouellic@aol.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
+    - label: "refuge.montgesin"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/refuge.montgesin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -123,9 +126,12 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+    - label: "le_refuge_de_montgesin"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/le_refuge_de_montgesin/"
+    - label: "Montgésin - 73210 Aime La Plagne"
+      icon: "fas fa-map-marked"
+      url: "https://g.page/refuge-montgesin?share"
 
 
 # Reading Files
@@ -261,7 +267,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       classes: wide
 
 
