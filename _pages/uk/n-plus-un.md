@@ -1,5 +1,6 @@
 ---
 permalink: /uk/n-plus-un/
+locale: en
 sidebar:
   nav: "docs"
 title: "A large bedroom and TV lounge"

@@ -1,5 +1,6 @@
 ---
 permalink: /uk/descriptif/
+locale: en
 sidebar:
   nav: "docs"
 title: "A cozy chalet for successful holiday"

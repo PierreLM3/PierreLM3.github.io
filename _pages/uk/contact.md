@@ -1,5 +1,6 @@
 ---
 permalink: /uk/contact/
+locale: en
 sidebar:
   nav: "docs"
 title: "Anne & Christian will be pleased to welcome you"

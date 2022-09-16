@@ -1,5 +1,6 @@
 ---
 permalink: /uk/
+locale: en
 sidebar:
   nav: "docs"
 header:

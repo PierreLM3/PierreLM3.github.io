@@ -1,5 +1,6 @@
 ---
 permalink: /uk/tarifs/
+locale: en
 sidebar:
   nav: "docs"
 title: "Prices and availability"

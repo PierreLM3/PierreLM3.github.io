@@ -1,5 +1,6 @@
 ---
 permalink: /uk/n-moins-un/
+locale: en
 sidebar:
   nav: "docs"
 title: "A sunny terrace and two bedrooms"

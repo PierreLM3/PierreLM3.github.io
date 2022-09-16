@@ -1,5 +1,6 @@
 ---
 permalink: /uk/rdc/
+locale: en
 sidebar:
   nav: "docs"
 title: "A bright living room ready to welcome your tribe"

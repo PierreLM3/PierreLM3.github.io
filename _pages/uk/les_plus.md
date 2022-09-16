@@ -1,5 +1,6 @@
 ---
 permalink: /uk/plus/
+locale: en
 sidebar:
   nav: "docs"
 gallery:

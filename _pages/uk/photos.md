@@ -1,5 +1,6 @@
 ---
 permalink: /uk/photos/
+locale: en
 sidebar:
   nav: "docs"
 gallery:

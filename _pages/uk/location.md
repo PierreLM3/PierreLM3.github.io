@@ -1,5 +1,6 @@
 ---
 permalink: /uk/location/
+locale: en
 sidebar:
   nav: "docs"
 title: "A chalet in La Plagne Paradiski"
