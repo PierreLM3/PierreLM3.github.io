@@ -30,6 +30,7 @@ Anne & Christian will be pleased to welcome you. They are ready to answer all yo
     key : 'tftr8_fc',
     numGite : '73G148140',
     widget : 'resa',
+    langue : 'UK'
   };
   widgetIteaGL(parametresWidget);
 </script>

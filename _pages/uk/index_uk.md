@@ -53,6 +53,7 @@ All will enjoy the stunning views, the comfort of the beautiful living room, the
     key : 'tftr8_fc',
     numGite : '73G148140',
     widget : 'resa',
+    langue : 'UK'
   };
   widgetIteaGL(parametresWidget);
 </script>
