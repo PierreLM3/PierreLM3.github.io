@@ -40,7 +40,7 @@ gallery:
   - image_path: /images/photos/cave.JPG
   - image_path: /images/photos/1exx_18gdf_cuisine_chalet_refuge_montgesin_plagne.jpg
 
-title: "Galerie photos"
+title: "Un chalet tout confort avec des vues splendides"
 header:
   overlay_image: /images/photos/1exx_18gdf_cuisine_chalet_refuge_montgesin_plagne.jpg
 ---
