@@ -1,5 +1,3 @@
-# PierreLM3.github.io
-
 ## Docs
  * https://jekyllrb.com/docs/ (moteur de sites statiques)
  * https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ (thème pour Jekyll)
