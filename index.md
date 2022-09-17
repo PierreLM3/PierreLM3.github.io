@@ -2,10 +2,7 @@
 permalink: /
 sidebar:
   nav: "docs"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /images/photos/1exx_pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
+
 gallery:
   - url: /images/accueil/extrieur-t.JPG
     image_path: /images/accueil/extrieur-t.JPG
@@ -13,21 +10,7 @@ gallery:
     image_path: /images/accueil/ext_soirV.JPG
   - url: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
     image_path: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
-gallery2:
-  - url: http://www.montalbert.com
-    image_path: /images/banniere_menu/logo_montalbert2.png
-  - url: https://www.facebook.com/refuge.montgesin
-    image_path: /images/banniere_menu/facebook.jpeg
-  - url: https://youtu.be/efYn-qbrEOM
-    image_path: /images/banniere_menu/youtube.png
-  - url: https://www.instagram.com/le_refuge_de_montgesin/
-    image_path: /images/banniere_menu/instagram.png
-  - image_path: /images/banniere_menu/meuble4etoiles.jpg
-  - image_path: /images/banniere_menu/CV_Connect-PNG.png
-  - url: https://www.familleplus.fr/fr/le-label
-    image_path: /images/banniere_menu/Logo_Fplus.png
     
-title: ""
 header:
   overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 ---
