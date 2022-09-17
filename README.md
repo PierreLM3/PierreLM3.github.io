@@ -7,3 +7,4 @@
  * https://www.ovh.com/manager/#/web/domain/refuge-montgesin.com/zone (nom de domaine)
  * https://www.cloudflare.com/fr-fr/plans/free/ (pour augmenter les performances, non installé)
  * https://github.com/nherbaut/nherbaut.github.io (code d'un ami, utilise les mêmes technos)
+ * http://doc.itea.fr/Internet/widget/doc_widget_itea-v2.pdf (doc des widgets)
