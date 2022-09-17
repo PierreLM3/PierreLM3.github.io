@@ -20,13 +20,4 @@ header:
 <p style="text-align: center;">mob 06 75 10 37 73</p>
 <p style="text-align: center;"> </p>
 
-<p style="text-align: center;">
-<script type='text/javascript'>
-  var parametresWidget = {
-    key : 'tftr8_fc',
-    numGite : '73G148140',
-    widget : 'resa',
-  };
-  widgetIteaGL(parametresWidget);
-</script>
-</p>
+{% include widget_resa.html %}

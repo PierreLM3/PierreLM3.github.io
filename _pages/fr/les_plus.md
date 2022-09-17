@@ -25,13 +25,5 @@ header:
   - une cave à vin de service,    
   - une machine à café Nespresso : n'oubliez pas vos capsules !    
   
-<p style="text-align: center;">
-<script type='text/javascript'>
-  var parametresWidget = {
-    key : 'tftr8_fc',
-    numGite : '73G148140',
-    widget : 'resa',
-  };
-  widgetIteaGL(parametresWidget);
-</script>
+{% include widget_resa.html %}
     

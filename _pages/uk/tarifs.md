@@ -29,14 +29,4 @@ A 30% deposit has to be paid upon reservation by credit card, or bank or PayPal 
 
 Availabilities are as follows and you can book directly:
 
-<p style="text-align: center;">
-<script type='text/javascript'>
-  var parametresWidget = {
-    key : 'tftr8_fc',
-    numGite : '73G148140',
-    widget : 'resa',
-    langue : 'UK'
-  };
-  widgetIteaGL(parametresWidget);
-</script>
-</p>
+{% include widget_resa_uk.html %}

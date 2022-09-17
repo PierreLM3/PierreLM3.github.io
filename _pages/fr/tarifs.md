@@ -31,13 +31,4 @@ Un acompte de 25 % du montant de la location sera réclamé lors de l'établisse
 
 Les chèques vacances ANCV sont les bienvenus.  
 
-<p style="text-align: center;">
-<script type='text/javascript'>
-  var parametresWidget = {
-    key : 'tftr8_fc',
-    numGite : '73G148140',
-    widget : 'resa'
-  };
-  widgetIteaGL(parametresWidget);
-</script>
-</p>
+{% include widget_resa.html %}

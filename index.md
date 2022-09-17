@@ -24,16 +24,7 @@ L'été, les amateurs de balades à pied ou en VTT profiteront des sentiers vers
 Les contemplatifs se loveront dans les coussins de laine des banquettes intégrées dans la structure du chalet pour profiter du paysage.
 Tous apprécieront le confort de la très belle pièce à vivre, des quatre chambres spacieuses, et des deux salles de bain de ce chalet classé 4 épis par les Gîtes de France.  
 
-<p style="text-align: center;">
-<script type='text/javascript'>
-  var parametresWidget = {
-    key : 'tftr8_fc',
-    numGite : '73G148140',
-    widget : 'resa',
-  };
-  widgetIteaGL(parametresWidget);
-</script>
- </p>
+{% include widget_resa.html %}
  
 <p style="text-align: center;">
   <a href="http://www.montalbert.com" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/logo_montalbert2.png" alt="" height="60" width="80" style="border:10px  "/></a> 
