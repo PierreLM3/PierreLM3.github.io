@@ -1,4 +1,5 @@
 ## Docs
+ * https://docs.framasoft.org/fr/grav/markdown.html (syntaxe Markdown)
  * https://jekyllrb.com/docs/ (moteur de sites statiques)
  * https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ (thème pour Jekyll)
  * https://docs.github.com/en/pages (hébergement)
