@@ -9,3 +9,4 @@
  * http://doc.itea.fr/Internet/widget/doc_widget_itea-v2.pdf (doc des widgets)
  * https://umap.openstreetmap.fr/fr/map/refuge-de-montgesin_644781#14/45.5306/6.6328 (cartographie OSM)
  * https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.refuge-montgesin.com%2F&hl=fr (Google search console)
+ * https://delicate-pavlova-239f90.netlify.app/ (Test déploiement sur un autre hébergeur)
