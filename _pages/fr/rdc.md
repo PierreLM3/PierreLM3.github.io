@@ -5,19 +5,10 @@ sidebar:
 title: "Une pièce à vivre lumineuse prête à accueillir votre tribu"
 header:
   overlay_image: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg
-gallery:
-  - image_path: /images/RDC/15gdf_entree_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/RDC/18gdf_cuisine_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/RDC/1gdf_table_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/RDC/21gdf_chambre_RdC_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/RDC/32gdf_salon_repas_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/RDC/4gdf_table_manger_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/RDC/SdBhautGA.JPG
-  - image_path: /images/RDC/vestiaire.JPG
-  - image_path: /images/RDC/zarmoire.JPG
+
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_RDC %}
 
 Ce niveau est accessible depuis la route et le parking par une entrée confortable avec banc et vestiaire.  
 

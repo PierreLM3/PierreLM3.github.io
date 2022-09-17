@@ -5,15 +5,9 @@ sidebar:
 title: "Une terrasse ensoleillée et deux belles chambres"
 header:
   overlay_image: /images/photos/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg
-gallery:
-  - image_path: /images/Nmoinsun/terrasse.JPG
-  - image_path: /images/Nmoinsun/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/Nmoinsun/chambrefamilialeGA.JPG
-  - image_path: /images/Nmoinsun/48gdf_skiroom_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/Nmoinsun/SdBbasGAHD.JPG
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_Nmoinsun %}
 
 A ce niveau, on trouve l'accès à la terrasse, deux chambres dont la chambre familiale, une salle de bain avec une baignoire, un WC séparé, le local à skis ou à vélos, et la buanderie.  
   

@@ -6,15 +6,10 @@ sidebar:
 title: "A sunny terrace and two bedrooms"
 header:
   overlay_image: /images/photos/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg
-gallery:
-  - image_path: /images/Nmoinsun/terrasse.JPG
-  - image_path: /images/Nmoinsun/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/Nmoinsun/chambrefamilialeGA.JPG
-  - image_path: /images/Nmoinsun/48gdf_skiroom_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/Nmoinsun/SdBbasGAHD.JPG
+
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_Nmoinsun %}
 
 At this level with access to the terrace, there are two bedrooms including the family one, a bathroom with a tub, separate WC, the ski or bike storage, and the laundry.  
 

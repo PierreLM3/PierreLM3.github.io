@@ -2,34 +2,13 @@
 permalink: /fr/plus/
 sidebar:
   nav: "docs"
-gallery:
-  - url: /images/lesplus/3gdf_poele_chalet_refuge_montgesin_plagne.jpg
-    image_path: /images/lesplus/3gdf_poele_chalet_refuge_montgesin_plagne.jpg
-  - url: /images/lesplus/livres.jpg
-    image_path: /images/lesplus/livres.jpg
-  - url: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg
-    image_path: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg
-  - url: /images/lesplus/pancarte.jpg
-    image_path: /images/lesplus/pancarte.jpg
-  - url: /images/lesplus/zcave.JPG
-    image_path: /images/lesplus/zcave.JPG
-  - url: /images/lesplus/chaisebb.jpg
-    image_path: /images/lesplus/chaisebb.jpg
-  - url: /images/lesplus/masque.jpg
-    image_path: /images/lesplus/masque.jpg
-  - url: /images/lesplus/sche_chaussures.jpg
-    image_path: /images/lesplus/sche_chaussures.jpg
-  - url: /images/lesplus/zevelo_-_copie.jpg
-    image_path: /images/lesplus/zevelo_-_copie.jpg
-  - url: /images/lesplus/chapelle_intrieur.jpg
-    image_path: /images/lesplus/chapelle_intrieur.jpg
 
 title: "Les plus"
 header:
   overlay_image: /images/lesplus/3gdf_poele_chalet_refuge_montgesin_plagne.jpg
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_lesplus %}
        
   - l'accueil et les conseils d'Anne et Christian, les propriétaires, qui habitent le hameau depuis plus de 20 ans,    
   - un chalet prêt pour des vacances réussies,    

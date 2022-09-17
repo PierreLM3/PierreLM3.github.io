@@ -2,20 +2,12 @@
 permalink: /
 sidebar:
   nav: "docs"
-
-gallery:
-  - url: /images/accueil/extrieur-t.JPG
-    image_path: /images/accueil/extrieur-t.JPG
-  - url: /images/accueil/ext_soirV.JPG
-    image_path: /images/accueil/ext_soirV.JPG
-  - url: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
-    image_path: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
     
 header:
   overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_accueil %}
   
 Un art de vivre contemporain à la montagne : tel est le principe qui a guidé la conception et la décoration du chalet Le Refuge de Montgésin, destiné à accueillir une tribu ou une famille de 10 personnes. Le chalet est labellisé Famille Plus et un kit bébé est mis à disposition gratuitement.  
 

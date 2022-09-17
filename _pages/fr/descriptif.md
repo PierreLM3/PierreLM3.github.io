@@ -5,12 +5,10 @@ sidebar:
 title: "Un chalet au design contemporain"
 header:
   overlay_image: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg
-gallery:
-  - image_path: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/descriptif/32gdf_salon_repas_chalet_refuge_montgesin_plagne.jpg
+
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_descriptif %}
 
 Le refuge de Montgésin est un chalet contemporain indépendant à la décoration soignée, avec de belles vues sur la vallée et les sommets. De grand confort, il a été construit en 2015. C'est un meublé de tourisme 4 étoiles, classé 4 épis pour 10 personnes par les Gîtes de France (ref 73G148140). Il est situé au calme, à 1500 m d'altitude, dans le hameau de Montgésin situé au-dessus de la station de Plagne-Montalbert située elle à 1300 m d'altitude.  
   

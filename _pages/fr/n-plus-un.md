@@ -5,12 +5,10 @@ sidebar:
 title: "Un niveau mezzanine à l'ambiance chaleureuse"
 header:
   overlay_image: /images/Nplusun/35gdf_chambre_mezzanine_chalet_refuge_montgesin_plagne.jpg
-gallery:
-  - image_path: /images/Nplusun/31gdf_mezzanine_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/Nplusun/35gdf_chambre_mezzanine_chalet_refuge_montgesin_plagne.jpg
+  
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_Nplusun %}
 
 A l'étage de la mezzanine, on trouve une grande chambre avec deux lits 80x200 jumelables en 160x200, une tête de lit avec une penderie intégrée, une banquette qui peut servir de couchage supplémentaire en 80x200 et des étagères de rangement.
 

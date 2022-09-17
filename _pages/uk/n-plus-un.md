@@ -6,12 +6,10 @@ sidebar:
 title: "A large bedroom and TV lounge"
 header:
   overlay_image: /images/Nplusun/35gdf_chambre_mezzanine_chalet_refuge_montgesin_plagne.jpg
-gallery:
-  - image_path: /images/Nplusun/31gdf_mezzanine_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/Nplusun/35gdf_chambre_mezzanine_chalet_refuge_montgesin_plagne.jpg
+
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_Nplusun %}
 
 On this level, there is a large bedroom with two beds 80x200 cm joinable to form a 160x200 cm bed, a 80X200 cm sofa that can serve as extra bed and storage shelf.
 

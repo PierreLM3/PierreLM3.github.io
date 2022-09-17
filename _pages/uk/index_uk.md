@@ -3,19 +3,12 @@ permalink: /uk/
 locale: en
 sidebar:
   nav: "docs"
-gallery:
-  - url: /images/accueil/extrieur-t.JPG
-    image_path: /images/accueil/extrieur-t.JPG
-  - url: /images/accueil/ext_soirV.JPG
-    image_path: /images/accueil/ext_soirV.JPG
-  - url: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
-    image_path: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
     
 header:
   overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 ---
 
-{% include gallery %}
+{% include my_gallery id=site.data.gallery_conf.gallery_accueil %}
   
 Anne et Christian, the owners, designed this comfortable chalet for a tribe of 10 people.  
 
