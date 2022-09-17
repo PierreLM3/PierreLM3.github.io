@@ -1,7 +1,5 @@
 ---
 permalink: /fr/descriptif/
-sidebar:
-  nav: "docs"
 title: "Un chalet au design contemporain"
 header:
   overlay_image: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg

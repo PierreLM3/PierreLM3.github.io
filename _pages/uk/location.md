@@ -1,8 +1,6 @@
 ---
 permalink: /uk/location/
 locale: en
-sidebar:
-  nav: "docs"
 title: "A chalet in La Plagne Paradiski"
 header:
   overlay_image: /images/photos/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg

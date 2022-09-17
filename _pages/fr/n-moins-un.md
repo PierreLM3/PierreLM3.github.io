@@ -1,7 +1,5 @@
 ---
 permalink: /fr/n-moins-un/
-sidebar:
-  nav: "docs"
 title: "Une terrasse ensoleillée et deux belles chambres"
 header:
   overlay_image: /images/photos/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg

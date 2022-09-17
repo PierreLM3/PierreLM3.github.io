@@ -1,9 +1,6 @@
 ---
 permalink: /uk/plus/
 locale: en
-sidebar:
-  nav: "docs"
-
 title: "Les plus"
 header:
   overlay_image: /images/lesplus/3gdf_poele_chalet_refuge_montgesin_plagne.jpg

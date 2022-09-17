@@ -1,7 +1,5 @@
 ---
 permalink: /fr/plus/
-sidebar:
-  nav: "docs"
 
 title: "Les plus"
 header:

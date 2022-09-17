@@ -1,8 +1,6 @@
 ---
 permalink: /uk/contact/
 locale: en
-sidebar:
-  nav: "docs"
 title: "Anne & Christian will be pleased to welcome you"
 header:
   overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg

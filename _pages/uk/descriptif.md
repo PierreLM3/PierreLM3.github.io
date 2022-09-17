@@ -1,8 +1,6 @@
 ---
 permalink: /uk/descriptif/
 locale: en
-sidebar:
-  nav: "docs"
 title: "A cozy chalet for successful holiday"
 header:
   overlay_image: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg

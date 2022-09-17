@@ -1,8 +1,6 @@
 ---
 permalink: /uk/tarifs/
 locale: en
-sidebar:
-  nav: "docs"
 title: "Prices and availability"
 header:
   overlay_image: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg

@@ -1,8 +1,6 @@
 ---
 permalink: /uk/n-plus-un/
 locale: en
-sidebar:
-  nav: "docs"
 title: "A large bedroom and TV lounge"
 header:
   overlay_image: /images/Nplusun/35gdf_chambre_mezzanine_chalet_refuge_montgesin_plagne.jpg

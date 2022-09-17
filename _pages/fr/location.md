@@ -1,7 +1,5 @@
 ---
 permalink: /fr/location/
-sidebar:
-  nav: "docs"
 title: "Accès et localisation"
 header:
   overlay_image: /images/photos/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg

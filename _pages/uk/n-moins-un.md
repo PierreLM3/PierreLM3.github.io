@@ -1,8 +1,6 @@
 ---
 permalink: /uk/n-moins-un/
 locale: en
-sidebar:
-  nav: "docs"
 title: "A sunny terrace and two bedrooms"
 header:
   overlay_image: /images/photos/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg

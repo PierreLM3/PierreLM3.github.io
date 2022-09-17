@@ -1,9 +1,6 @@
 ---
 permalink: /uk/
 locale: en
-sidebar:
-  nav: "docs"
-    
 header:
   overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 ---

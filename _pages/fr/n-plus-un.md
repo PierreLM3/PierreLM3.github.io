@@ -1,7 +1,5 @@
 ---
 permalink: /fr/n-plus-un/
-sidebar:
-  nav: "docs"
 title: "Un niveau mezzanine à l'ambiance chaleureuse"
 header:
   overlay_image: /images/Nplusun/35gdf_chambre_mezzanine_chalet_refuge_montgesin_plagne.jpg

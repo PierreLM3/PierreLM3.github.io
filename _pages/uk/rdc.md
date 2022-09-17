@@ -1,8 +1,6 @@
 ---
 permalink: /uk/rdc/
 locale: en
-sidebar:
-  nav: "docs"
 title: "A bright living room ready to welcome your tribe"
 header:
   overlay_image: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg

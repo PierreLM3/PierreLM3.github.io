@@ -1,7 +1,5 @@
 ---
 permalink: /fr/rdc/
-sidebar:
-  nav: "docs"
 title: "Une pièce à vivre lumineuse prête à accueillir votre tribu"
 header:
   overlay_image: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg
