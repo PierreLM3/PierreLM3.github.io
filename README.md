@@ -18,7 +18,7 @@
  * CNAME
  * .gitignore
 
-### ⚠️ Fichiers à éditer avec précaution
+### ⚠️ Fichiers à éditer avec précaution
  * _config.yml
  * _data/
  * _includes/
