@@ -5,8 +5,7 @@ header:
   overlay_image: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg
 ---
 
-<center>
-<table>
+<table class="center">
 <thead>
 <tr style="text-align: center;">
 <td>&nbsp;Dates</td>
@@ -28,7 +27,6 @@ header:
 </tr>
 </tbody>
 </table>
-</center>
   
 En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les week-ends, nous consulter.   
 
