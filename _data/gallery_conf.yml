@@ -28,7 +28,7 @@ gallery_photos:
   - image_path: /images/photos/vueLauziere.JPG
   - image_path: /images/photos/35gdf_chambre_mezzanine_chalet_refuge_montgesin_plagne.jpg
   - image_path: /images/photos/21gdf_chambre_RdC_chalet_refuge_montgesin_plagne.jpg
-  - image_path: /images/photos/49velo.jpg
+  - image_path: /images/photos/local_ski.jpg
   - image_path: /images/photos/chaisebb.jpg
   - image_path: /images/photos/masque.jpg
   - image_path: /images/photos/4gdf_table_manger_chalet_refuge_montgesin_plagne.jpg
@@ -54,7 +54,7 @@ gallery_lesplus:
   - image_path: /images/lesplus/chaisebb.jpg
   - image_path: /images/lesplus/masque.jpg
   - image_path: /images/lesplus/sche_chaussures.jpg
-  - image_path: /images/lesplus/zevelo_-_copie.jpg
+  - image_path: /images/lesplus/local_ski.jpg
   - image_path: /images/lesplus/chapelle_intrieur.jpg
   
 gallery_Nmoinsun:
