@@ -10,7 +10,7 @@ header:
 
 Le refuge de Montgésin est un chalet contemporain, indépendant, à la décoration soignée, avec de belles vues. C'est un meublé de tourisme confortable, classé 4 étoiles et 4 épis pour 10 personnes par les Gîtes de France (ref 73G148140). Il est situé au calme, à 1500 m d'altitude, dans le hameau de Montgésin situé au-dessus de la station de La Plagne-Montalbert.  
   
-La nouvelle télécabine de Montalbert peut être rejointe facilement pour profiter du domaine skiable de La Plagne Paradiski. Le retour à skis peut s'effectuer via la piste du Gentil selon l'enneigement.  
+La nouvelle télécabine de Montalbert peut être rejointe facilement pour profiter du domaine skiable de La Plagne Paradiski. Le retour à skis s'effectue via la piste du Gentil selon l'enneigement.  
 
 Le chalet d'une surface habitable de 152 m² comporte trois niveaux :  
   - au <a href="/fr/n-plus-un/">niveau mezzanine</a>, on trouve une chambre et la mezzanine avec le coin télé ;  
