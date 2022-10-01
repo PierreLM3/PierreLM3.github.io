@@ -5,7 +5,7 @@ header:
   overlay_image: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg
 ---
 
-<table class="center">
+<table style="margin-left:auto;margin-right:auto;">
 <thead>
 <tr style="text-align: center;">
 <td>&nbsp;Dates</td>
