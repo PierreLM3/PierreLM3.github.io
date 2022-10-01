@@ -15,7 +15,7 @@ La chambre familiale est prévue pour abriter une famille complète, des copains
 
 L'autre chambre comprend deux lits 80x200 eux aussi jumelables en 160x200 et un coin bureau.  
 
-Le local à skis ou à vélos est d'une taille généreuse. On le rejoint par l'entrée qui avec son banc et son vestiaire donne sur la terrasse. Celle-ci est en bois comme sa grande table. Dans le local à skis, on trouve un barbecue, des transats et un parasol, un ratelier à skis et un sèche-chaussures pour 10 paires.  
+Le local à skis ou à vélos est d'une taille généreuse. On le rejoint par l'entrée qui avec son banc et son vestiaire donne sur la terrasse. Celle-ci est en bois comme sa grande table. Dans le local à skis et à vélos, on trouve un barbecue, des transats et un parasol, un ratelier à skis, un support pour les vélos et un sèche-chaussures pour 10 paires.  
 
 
 La buanderie est équipée d'un lave-linge et d'un sèche-linge, tous les deux d'une capacité de 8 kg.
