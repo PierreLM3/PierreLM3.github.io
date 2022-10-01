@@ -4,18 +4,31 @@ title: "Disponibilités"
 header:
   overlay_image: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg
 ---
-bbbb
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 30%">
 
-|                         Dates                        | Tarifs |
-|:----------------------------------------------------:|:------:|
-| semaine hiver hors vacances scolaires Noël & hiver   | 1700&nbsp;€ |
-|    semaine hiver vacances scolaires Noël & hiver     | 3400&nbsp;€ |
-|                   été & hors saison                  |  950&nbsp;€ |
-
-</div>
+<center>
+<table>
+<thead>
+<tr style="text-align: center;">
+<td>&nbsp;Dates</td>
+<td>&nbsp;Tarifs</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">semaine hiver hors vacances scolaires Noël & hiver</td>
+<td style="text-align: center;">1700&nbsp;€</td>
+</tr>
+<tr>
+<td style="text-align: center;">semaine hiver vacances scolaires Noël & hiver</td>
+<td style="text-align: center;">3400&nbsp;€</td>
+</tr>
+<tr>
+<td style="text-align: center;">été & hors saison</td>
+<td style="text-align: center;">950&nbsp;€</td>
+</tr>
+</tbody>
+</table>
+</center>
   
 En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les week-ends, nous consulter.   
 
