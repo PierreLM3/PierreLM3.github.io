@@ -8,7 +8,7 @@ header:
 
 {% include my_gallery id=site.data.gallery_conf.gallery_RDC %}
 
-Ce niveau est accessible depuis la route et le parking par une entrée confortable avec banc et vestiaire.  
+Ce niveau est accessible depuis la route et les trois places de stationnement par une entrée confortable avec banc et vestiaire.  
 
 
 On trouve la pièce à vivre avec une très grande table pour les repas, un coin salon avec un canapé d'angle, et les banquettes où se caler confortablement au milieu des nombreux coussins pour profiter de la vue, de la chaleur du poêle design ou d'un bon bouquin.  
