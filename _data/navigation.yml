@@ -1,5 +1,5 @@
 docs:
-  - title: "🇫🇷"
+  - title: "Accueil 🇫🇷"
     url: /
     children:
       - title: "Descriptif"
@@ -16,11 +16,9 @@ docs:
         url: /fr/location/
       - title: "Avis et commentaires"
         url: /fr/avis/
-  - title: "🇬🇧"
+  - title: "Home 🇬🇧"
     url: /uk/
     children:
-      - title: "Home"
-        url: /uk/
       - title: "Description"
         url: /uk/descriptif/
       - title: "Gallery"
