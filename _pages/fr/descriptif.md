@@ -15,7 +15,7 @@ La nouvelle télécabine de Montalbert peut être rejointe facilement pour profi
 Le chalet d'une surface habitable de 152 m² comporte trois niveaux :  
   - au <a href="/fr/n-plus-un/">niveau mezzanine</a>, on trouve une chambre et la mezzanine avec le coin télé ;  
   - au <a href="/fr/rdc/">niveau rez-de-chaussée</a>, on trouve la pièce à vivre avec la cuisine, une chambre, une salle d'eau et un WC séparé - ce niveau est entièrement accessible aux personnes à mobilité réduite ;  
-  - au <a href="/fr/n-moins-un/">niveau terrasse</a>, on trouve deux chambres dont la grande chambre familiale, une salle de bain, un WC séparé, la buanderie, le local à skis et à vélos et la terrasse en bois avec ses transats et sa grande table.  
+  - au <a href="/fr/n-moins-un/">niveau terrasse</a>, on trouve deux chambres dont la grande chambre familiale, une salle de bain, un WC séparé, la buanderie, le local à skis et à vélos et une entrée qui donne sur la terrasse en bois avec ses transats et sa grande table.  
 
 Le chalet est équipé de 3 places de stationnement privatives.  
 
