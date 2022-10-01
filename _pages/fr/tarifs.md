@@ -4,8 +4,6 @@ title: "Disponibilités"
 header:
   overlay_image: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg
 ---
-zzzz
-<div align="center">
 
 |                         Dates                        | Tarifs |
 |:----------------------------------------------------:|:------:|
@@ -13,8 +11,7 @@ zzzz
 |    semaine hiver vacances scolaires Noël & hiver     | 3400&nbsp;€ |
 |                   été & hors saison                  |  950&nbsp;€ |
 
-</div>
-  
+
 En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les week-ends, nous consulter.   
 
 Le tarif ci-dessus est le tarif toutes charges comprises, pour 7 nuits - voir les disponibilités ci-dessous.
