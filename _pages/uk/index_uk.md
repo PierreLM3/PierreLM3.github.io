@@ -23,7 +23,7 @@ All will enjoy the stunning views, the comfort of the beautiful living room, the
    
  
 <p style="text-align: center;">
-  <a href="https://www.gites-de-france.com/en/auvergne-rhone-alpes/savoie/le-refuge-de-montgesin-73g148140" target="_blank" rel="noreferrer">  <img src="/images/banniere_menu/giteDeFrance.png" alt="" width="60" height="60" style="border:10px solid white"/></a> 
+  <a href="https://www.gites-de-france.com/en/auvergne-rhone-alpes/savoie/le-refuge-de-montgesin-73g148140" target="_blank" rel="noreferrer">  <img src="/images/banniere_menu/giteDeFrance.png" alt="" width="100" height="100" style="border:10px solid white"/></a> 
   <a href="https://en.la-plagne.com/" target="_blank" rel="noreferrer">  <img src="/images/banniere_menu/logo_montalbert2.png" alt="" width="60" height="60" style="border:5px solid white"/></a> 
   <img src="/images/banniere_menu/meuble4etoiles.jpg" alt="" width="80" height="60" style="border:10px solid white"/>  
     <a href="https://www.facebook.com/refuge.montgesin" target="_blank" rel="noreferrer"><img src="/images/banniere_menu/facebook.jpeg" alt="" width="60" height="60" style="border:10px solid white"/></a> 
