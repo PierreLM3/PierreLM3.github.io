@@ -4,7 +4,7 @@ docs:
     children:
       - title: "Descriptif"
         url: /fr/descriptif/
-      - title: "Galerie photos"
+      - title: "Vidéo et photos"
         url: /fr/photos/
       - title: "Les plus"
         url: /fr/plus/
