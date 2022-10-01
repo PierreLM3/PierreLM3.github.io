@@ -12,11 +12,6 @@ En 2021, grâce aux avis déposés par nos vacanciers, notre chalet s'est vu rem
 {: .text-center}
 
 Les derniers avis ci-dessous ont été recueillis par les Gîtes de France en conformité avec la norme AFNOR NF Z74-501
-<script type='text/javascript'>
-  var parametresWidget = {
-    key : 'tftr8_fc',
-    numGite : '73G148140',
-    widget : 'avis',
-  };
-  widgetIteaGL(parametresWidget);
-</script>
+<div data-widget-itea="avis" data-key="tftr8_fc" data-numgite="73G148140"></div>
+
+
