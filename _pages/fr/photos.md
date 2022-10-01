@@ -6,5 +6,7 @@ header:
   
 ---
 
+{% include video id="efYn-qbrEOM" provider="youtube" %}
+
 {% include my_gallery id=site.data.gallery_conf.gallery_photos %}
 
