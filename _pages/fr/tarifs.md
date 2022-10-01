@@ -22,13 +22,13 @@ header:
 <td style="text-align: center;">3400&nbsp;€</td>
 </tr>
 <tr>
-<td style="text-align: center;">été & hors saison</td>
+<td style="text-align: center;">semaine été & hors saison</td>
 <td style="text-align: center;">950&nbsp;€</td>
 </tr>
 </tbody>
 </table>
   
-En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les week-ends, nous consulter.   
+En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les courts séjours, nous consulter.   
 
 Le tarif ci-dessus est le tarif toutes charges comprises, pour 7 nuits - voir les disponibilités ci-dessous.
 
