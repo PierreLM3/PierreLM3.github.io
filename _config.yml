@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
   
 head_scripts:
-  - https://widget.itea.fr/js/itea_widget.js
+  - https://widget.itea.fr/js/itea_widget.v2.js
 
 # Site Settings
 locale                   : "fr-FR"
