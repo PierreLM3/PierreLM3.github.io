@@ -6,7 +6,7 @@ header:
 
 ---
 
-<img src="/images/contact/nous.JPG" alt="" width="300" height="300" />
+<img src="/images/contact/nous.JPG" alt="" width="400" height="400" />
 {: .text-center}
 
 
