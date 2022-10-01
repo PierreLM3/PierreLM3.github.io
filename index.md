@@ -13,7 +13,7 @@ Un art de vivre contemporain à la montagne : tel est le principe qui a guidé l
 Ce chalet indépendant est situé au-dessus de la station de Plagne Montalbert, à 1500 mètres d'altitude, dans le hameau de Montgésin qui abrite la chapelle baroque ND des Neiges.  
 
 
-L’hiver, les skieurs rejoindront facilement la nouvelle télécabine de Montalbert assurant la liaison vers le domaine skiable de La Plagne – Paradiski. Le retour à ski se fait via la piste du Gentil selon l'enneigement. Le chalet est un point de départ pour de nombreuses explorations en raquettes, à ski de rando ou simplement à pied.  
+L’hiver, les skieurs rejoindront facilement la télécabine de Montalbert assurant la liaison vers le domaine skiable de La Plagne – Paradiski. Le retour à ski se fait via la piste du Gentil selon l'enneigement. Le chalet est un point de départ pour de nombreuses explorations en raquettes, à ski de rando ou simplement à pied.  
 
 
 L'été, les amateurs de balades à pied ou en VTT profiteront des sentiers vers Montalbert, ND du Pré ou le massif du Mont Jovet.  
@@ -25,7 +25,7 @@ Tous apprécieront le confort de la très belle pièce à vivre, des quatre cham
 {% include widget_resa.html %}
  
 <p style="text-align: center;">
-  <a href="https://www.gites-de-france.com/en/auvergne-rhone-alpes/savoie/le-refuge-de-montgesin-73g148140" target="_blank" rel="noreferrer">  <img src="/images/banniere_menu/giteDeFrance.png" alt="" width="60" height="60" style="border:10px solid white"/></a> 
+  <a href="https://www.gites-de-france.com/en/auvergne-rhone-alpes/savoie/le-refuge-de-montgesin-73g148140" target="_blank" rel="noreferrer">  <img src="/images/banniere_menu/giteDeFrance.png" alt="" width="100" height="100" style="border:10px solid white"/></a> 
   <a href="http://www.montalbert.com" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/logo_montalbert2.png" alt="" height="60" width="80" style="border:10px  "/></a> 
       <a href="https://www.facebook.com/refuge.montgesin" target="_blank" rel="noreferrer"><img src="images/banniere_menu/facebook.jpeg" alt="" width="60" height="60" style="border:10px  "/></a> 
     <a href="https://youtu.be/efYn-qbrEOM" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/youtube.png" alt="" width="60" height="60" style="border:10px  "/></a>
