@@ -10,6 +10,7 @@ header:
 | semaine hiver hors vacances scolaires Noël & hiver   | 1700&nbsp;€ |
 |    semaine hiver vacances scolaires Noël & hiver     | 3400&nbsp;€ |
 |                   été & hors saison                  |  950&nbsp;€ |
+{: .text-center}
 
 En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les week-ends, nous consulter.   
 
