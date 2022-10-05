@@ -25,7 +25,7 @@ Tous apprécieront le confort de la très belle pièce à vivre, des quatre cham
 {% include widget_resa.html %}
  
 <p style="text-align: center;">
-  <a href="https://www.gites-de-france.com/fr/auvergne-rhone-alpes/savoie/le-refuge-de-montgesin-73g148140) target="_blank" rel="noreferrer">  <img src="/images/banniere_menu/giteDeFrance.png" alt="" width="100" height="100" style="border:10px solid white"/></a> 
+  <a href="https://www.gites-de-france.com/fr/auvergne-rhone-alpes/savoie/le-refuge-de-montgesin-73g148140" target="_blank" rel="noreferrer">  <img src="/images/banniere_menu/giteDeFrance.png" alt="" width="100" height="100" style="border:10px solid white"/></a> 
   <a href="http://www.montalbert.com" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/logo_montalbert2.png" alt="" height="60" width="80" style="border:10px  "/></a> 
       <a href="https://www.facebook.com/refuge.montgesin" target="_blank" rel="noreferrer"><img src="images/banniere_menu/facebook.jpeg" alt="" width="60" height="60" style="border:10px  "/></a> 
     <a href="https://youtu.be/efYn-qbrEOM" target="_blank" rel="noreferrer"> <img src="images/banniere_menu/youtube.png" alt="" width="60" height="60" style="border:10px  "/></a>
