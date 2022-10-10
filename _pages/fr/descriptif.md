@@ -19,4 +19,4 @@ Le chalet d'une surface habitable de 152 m² comporte trois niveaux :
 
 Le chalet est équipé de 3 places de stationnement privatives.  
 
-Vous pouvez télécharger le descriptif complet <a href="/images/descriptif/descriptif.pdf" download>ici</a>.
+Vous pouvez télécharger le descriptif complet <a href="/images/descriptif/inventaire_juin_22.pdf" download>ici</a>.
