@@ -7,7 +7,7 @@ header:
 
 <div style="display: flex;flex-flow: column wrap;justify-content: center;align-items: center;flex: 1 1 auto;height: 100%;padding-bottom: 1em;">
   
-<table style="width: 50%">
+<table style="overflow-x: unset; width: unset; border: 1px solid #b6b6b6">
 <thead>
 <tr style="text-align: center;">
 <td>&nbsp;Dates</td>
