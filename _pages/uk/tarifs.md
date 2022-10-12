@@ -5,12 +5,33 @@ title: "Prices and availability"
 header:
   overlay_image: /images/lesplus/9gdf_coin_salon_chalet_refuge_montgesin_plagne.jpg
 ---
+  
+<div style="display: flex;flex-flow: column wrap;justify-content: center;align-items: center;flex: 1 1 auto;height: 100%;padding-bottom: 1em;">
+  
+<table style="overflow-x: unset; width: unset; border: 1px solid #b6b6b6">
+<thead>
+<tr style="text-align: center;">
+<td>&nbsp;Dates</td>
+<td>&nbsp;Tarifs</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">winter week except school holidays Christmas & February</td>
+<td style="text-align: center;">1700&nbsp;€</td>
+</tr>
+<tr>
+<td style="text-align: center;">swinter week school holidays Christmas & February</td>
+<td style="text-align: center;">3400&nbsp;€</td>
+</tr>
+<tr>
+<td style="text-align: center;">summer & off season</td>
+<td style="text-align: center;">950&nbsp;€</td>
+</tr>
+</tbody>
+</table>
 
-|                         Dates                        | Price |
-|:----------------------------------------------------:|:------:|
-| winter week except school holidays Christmas & February | 1700&nbsp;€ |
-|    winter week school holidays Christmas & February   | 3400&nbsp;€ |
-|                   summer & off season                  |  950&nbsp;€ |
+</div>
 
 CHRISTMAS HOLIDAYS 2022 and NEW YEAR 2023: due to the many possibilities, to know the price, use the booking tool at the bottom of the page or contact us.   
 
