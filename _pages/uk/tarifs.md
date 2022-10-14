@@ -44,7 +44,7 @@ Additional services are available:
  - towels: 5 euros per person
  - end of the stay clean: 140 euros
 
-A 30% deposit has to be paid upon reservation by credit card, or bank or PayPal transfer. The balance has to be paid also by credit card or transfer one week before arrival.
+A 30% deposit has to be paid upon reservation by credit card, or bank or PayPal transfer. The balance has to be paid also by credit card or transfer one week before arrival. A damage deposit of EUR 700 is required on arrival.
 
 Availabilities are as follows and you can book directly:
 
