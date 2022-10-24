@@ -13,17 +13,18 @@ The Refuge de Montgésin is a totally independent chalet fully equipped (wifi �
  - the <a href="/uk/rdc/">ground level</a> with the main entrance, living room, kitchen, one bedroom, one bathroom and separate toilet
  - the <a href="/uk/n-moins-un/">lower level</a> with the terrace (picnic table and deck chairs), ski room, laundry, two bedrooms and one bathroom and separate toilet
 
-This chalet is offering some extra bonuses:
 
 {% include my_gallery id=site.data.gallery_conf.gallery_descriptif %}
 
- - the ski boots dryer in the ski room
+This chalet is offering some extra bonuses:
+ - a ski and bike room with a hair dryer, a bike rack, and plugs to recharge your electric bikes
  - the ground floor with full wheelchair access (living room, bedroom, bathroom and toilets) from the parking places
  - a full kit for your baby
  - a Nespresso coffee machine
  - snow removal and wood for the stove for free
  - your dog or other pet animals are welcome
  - in Montgésin, the 17th century chapel that Christian is opening each morning
+ - a service wine cellar
  - works from contemporary local artists on the walls 
 
 
