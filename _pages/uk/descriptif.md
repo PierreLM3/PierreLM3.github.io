@@ -21,6 +21,7 @@ This chalet is offering some extra bonuses:
  - the ground floor with full wheelchair access (living room, bedroom, bathroom and toilets) from the parking places
  - a full kit for your baby
  - a Nespresso coffee machine
+ - a high speed internet connection via optical fiber
  - snow removal and wood for the stove for free
  - your dog or other pet animals are welcome
  - in Montgésin, the 17th century chapel that Christian is opening each morning
