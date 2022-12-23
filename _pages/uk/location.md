@@ -3,7 +3,7 @@ permalink: /uk/location/
 locale: en
 title: "A chalet in La Plagne Paradiski"
 header:
-  overlay_image: /images/photos/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg
+  overlay_image: /images/photos/1extrieur_t.JPG
 ---
 
 Our chalet is located in <a href="http://winter.la-plagne.com" target="_blank">La Plagne Paradiski</a>, in the French Alps, at 1500 meters, above <a href="http://winter.montalbert.com">Plagne-Montalbert</a>, one of the villages of this huge ski resort.
