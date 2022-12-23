@@ -2,7 +2,7 @@
 permalink: /fr/location/
 title: "Accès et localisation"
 header:
-  overlay_image: /images/photos/39gdf_chambre_terrasse_chalet_refuge_montgesin_plagne.jpg
+  overlay_image: /images/photos/1extrieur_t.JPG
 ---
 
 Notre chalet est situé à 1500 mètres d'altitude, au-dessus de la station de La Plagne Montalbert, au calme, dans le hameau de Montgésin.  
