@@ -2,7 +2,7 @@
 permalink: /uk/
 locale: en
 header:
-  overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
+  overlay_image: /images/photos/1gdf_table_chalet_refuge_montgesin_plagne.jpg
 ---
 
 {% include my_gallery id=site.data.gallery_conf.gallery_accueil %}
