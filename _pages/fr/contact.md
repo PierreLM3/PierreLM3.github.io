@@ -2,7 +2,7 @@
 permalink: /fr/contact/
 title: "Anne & Christian se feront un plaisir de vous accueillir"
 header:
-  overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
+  overlay_image: /images/photos/1exx_15gdf_entree_chalet_refuge_montgesin_plagne.jpg
 
 ---
 
