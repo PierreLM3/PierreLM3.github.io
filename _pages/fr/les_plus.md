@@ -3,7 +3,7 @@ permalink: /fr/plus/
 
 title: "Les plus"
 header:
-  overlay_image: /images/lesplus/3gdf_poele_chalet_refuge_montgesin_plagne.jpg
+  overlay_image: /images/accueil/pgdf_vue_gnrale_chalet_refuge_montgesin_Plagne.jpg
 ---
 
 {% include my_gallery id=site.data.gallery_conf.gallery_lesplus %}
