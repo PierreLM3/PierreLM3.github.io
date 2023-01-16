@@ -13,7 +13,7 @@ Un art de vivre contemporain à la montagne : tel est le principe qui a guidé l
 Ce chalet indépendant est situé au-dessus de la station de Plagne Montalbert, à 1500 mètres d'altitude, dans le hameau de Montgésin qui abrite la chapelle baroque ND des Neiges.  
 
 
-L’hiver, les skieurs rejoindront facilement la télécabine de Montalbert assurant la liaison vers le domaine skiable de La Plagne – Paradiski. Le retour à ski se fait via la piste du Gentil selon l'enneigement. Le chalet est un point de départ pour de nombreuses explorations en raquettes, à ski de rando ou simplement à pied.  
+L’hiver, les skieurs rejoindront facilement la télécabine de Montalbert assurant la liaison vers le domaine skiable de La Plagne – Paradiski. La piste du Gentil est à 500 mètres de distance au-dessus du chelet. Ce dernier est un point de départ pour de nombreuses explorations en raquettes, à ski de rando ou simplement à pied.  
 
 
 L'été, les amateurs de balades à pied ou en VTT profiteront des sentiers vers Montalbert, ND du Pré ou le massif du Mont Jovet.  
