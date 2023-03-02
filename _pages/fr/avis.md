@@ -5,7 +5,7 @@ header:
   overlay_image: /images/photos/31gdf_mezzanine_chalet_refuge_montgesin_plagne.jpg
 ---
 
-En 2021, grâce aux avis déposés par nos vacanciers, notre chalet s'est vu remettre par les Gîtes de France la récompense "Trophées Clients 2020".
+En 2023, grâce aux avis déposés par nos vacanciers, notre chalet s'est vu remettre à nouveau par les Gîtes de France la récompense "Trophées Clients".
 
 
   <a href="http://www.gites-de-france-savoie.com/fiche-hebergement-73G148140.html" target="_blank" rel="noreferrer"> <img src="/images/banniere_menu/logo_trophes_clients.jpeg" alt="" width="200" height="200" style="border:10px solid white" /></a> 
