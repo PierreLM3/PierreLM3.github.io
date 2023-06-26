@@ -10,7 +10,8 @@ header:
        
   - l'accueil et les conseils d'Anne et Christian, les propriétaires, qui habitent le hameau depuis plus de 20 ans,    
   - un chalet prêt pour des vacances réussies,    
-  - une connexion internet très haut débit par fibre optique,    
+  - une connexion internet très haut débit par fibre optique,
+  - une prise renforcée pour recharger votre véhicule électrique,    
   - les lits adaptés à vos besoins dans les chambres : lits de 80x200 ou lit 160x200,    
   - un chalet labellisé Famille Plus avec tout l'équipement pour bébé (chaise haute, lit, baignoire, matelas à langer, barrière de sécurité)    
   - le déneigement et le bois fourni gracieusement pour le poêle,    
