@@ -17,6 +17,8 @@ Le chalet d'une surface habitable de 152 m² comporte trois niveaux :
   - au <a href="/fr/rdc/">niveau rez-de-chaussée</a>, on trouve la pièce à vivre avec la cuisine, une chambre, une salle d'eau et un WC séparé - ce niveau est entièrement accessible aux personnes à mobilité réduite ;  
   - au <a href="/fr/n-moins-un/">niveau terrasse</a>, on trouve deux chambres dont la grande chambre familiale, une salle de bain, un WC séparé, la buanderie, le local à skis et à vélos et une entrée qui donne sur la terrasse en bois avec ses transats et sa grande table.  
 
-Le chalet est équipé de 3 places de stationnement privatives et d'une prise renforcée pour recharger votre voiture électrique. 
+Le chalet est équipé de 3 places de stationnement privatives et d'une prise renforcée pour recharger votre voiture électrique.
+
+Pour le confort de tous et le respect de l'environnement, le chalet et ses extérieurs sont entièrement non fumeurs.
 
 Vous pouvez télécharger le descriptif complet <a href="/images/descriptif/inventaire_juin_22.pdf" download>ici</a>.
