@@ -19,6 +19,6 @@ Le chalet d'une surface habitable de 152 m² comporte trois niveaux :
 
 Le chalet est équipé de 3 places de stationnement privatives et d'une prise renforcée pour recharger votre voiture électrique.
 
-Pour le confort de tous et le respect de l'environnement, le chalet et ses extérieurs sont entièrement non fumeurs.
+Pour le confort de tous et le respect de l'environnement, le chalet et ses extérieurs sont entièrement non-fumeurs.
 
 Vous pouvez télécharger le descriptif complet <a href="/images/descriptif/inventaire_juin_22.pdf" download>ici</a>.
