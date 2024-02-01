@@ -24,6 +24,8 @@ This chalet is offering some extra bonuses:
  - a high speed internet connection via optical fiber
  - snow removal and wood for the stove for free
  - your dog or other pet animals are welcome
+ - three private parking spaces and a reinforced socket for recharging your electric car
+ - for everyone's comfort and to respect the environment, the chalet and its grounds are completely non-smoking  
  - in Montgésin, the 17th century chapel that Christian is opening each morning
  - a service wine cellar
  - works from contemporary local artists on the walls 
