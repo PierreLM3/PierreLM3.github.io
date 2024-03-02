@@ -13,7 +13,7 @@ La route de Montgésin est déneigée de bonne heure tous les jours où cela est
 
 En été, les possibilités de randonnées à pied ou en VTT sont nombreuses et variées.  
 
-Quel que soit la saison, Anne et Christian, les propriétaires, sauront vous conseiller utilement.  
+Quelle que soit la saison, Anne et Christian, les propriétaires, sauront vous conseiller utilement.  
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/refuge-de-montgesin_644781?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/refuge-de-montgesin_644781">Voir en plein écran</a></p>
 
