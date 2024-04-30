@@ -17,15 +17,15 @@ header:
 <tbody>
 <tr>
 <td style="text-align: center;">semaine hiver hors vacances scolaires Noël & hiver</td>
-<td style="text-align: center;">1700&nbsp;€</td>
+<td style="text-align: center;">2100&nbsp;€</td>
 </tr>
 <tr>
 <td style="text-align: center;">semaine hiver vacances scolaires Noël & hiver</td>
-<td style="text-align: center;">3400&nbsp;€</td>
+<td style="text-align: center;">3700&nbsp;€</td>
 </tr>
 <tr>
 <td style="text-align: center;">semaine été & hors saison</td>
-<td style="text-align: center;">950&nbsp;€</td>
+<td style="text-align: center;">1300&nbsp;€</td>
 </tr>
 </tbody>
 </table>
@@ -34,13 +34,13 @@ header:
   
 En hiver, les locations se font principalement à la semaine du dimanche au dimanche. En été et hors saison du samedi au samedi. Pour les courts séjours, nous consulter.   
 
-Le tarif ci-dessus est le tarif toutes charges comprises, pour 7 nuits - voir les disponibilités ci-dessous.
+Le tarif ci-dessus est le tarif ménage de fin de séjour et toutes charges comprises, pour 7 nuits - voir les disponibilités ci-dessous.
 
 Un kit bébé (lit, chaise haute, baignoire… ) est mis à disposition gracieusement.  
 
 Sauf demande spécifique, les arrivées se font à partir de 16 heures et les départs au plus tard à 10 heures. 
 
-Le tarif ne comprend pas la taxe de séjour (2,48 euros par personne de plus de 18 ans et par jour) et le ménage de fin de séjour pour 140 euros.    
+Le tarif ne comprend pas la taxe de séjour (2,75 euros par personne de plus de 18 ans et par jour).    
 
 Des prestations complémentaires peuvent vous être proposées :  
 - le fourniture de draps : kit lit 1 place - 10 euros, kit lit 2 places 12 euros - dans ce cas, les chambres sont préparées suivant vos besoins ;  
