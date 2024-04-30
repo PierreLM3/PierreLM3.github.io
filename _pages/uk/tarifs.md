@@ -18,15 +18,15 @@ header:
 <tbody>
 <tr>
 <td style="text-align: center;">winter week except school holidays Christmas & February</td>
-<td style="text-align: center;">1700&nbsp;€</td>
+<td style="text-align: center;">2100&nbsp;€</td>
 </tr>
 <tr>
 <td style="text-align: center;">swinter week school holidays Christmas & February</td>
-<td style="text-align: center;">3400&nbsp;€</td>
+<td style="text-align: center;">3700&nbsp;€</td>
 </tr>
 <tr>
 <td style="text-align: center;">summer & off season</td>
-<td style="text-align: center;">950&nbsp;€</td>
+<td style="text-align: center;">1300&nbsp;€</td>
 </tr>
 </tbody>
 </table>
@@ -36,7 +36,7 @@ header:
 
 In winter, rentals are mainly by the week from Sunday to Sunday. In summer and out of season from Saturday to Saturday. For weekends, please contact us. 
 
-Above prices include all charges but end of stay cleaning (140 euros) and local tax have to be paid (2.48 euros per night and per adult). The price is for a full week from Saturday 4 pm to Saturday 10 am. For short stays or weekends please contact us.
+Above prices include all charges including end of stay cleaning but not local tax (2.75 euros per night and per adult). The price is for a full week from Saturday 4 pm to Saturday 10 am. For short stays or weekends please contact us.
 
 Additional services are available:
  - bed linen: 12 euros for a twin bed and 10 euros for a single
