@@ -13,7 +13,7 @@ Anne et Christian, the owners, designed this comfortable chalet for a tribe of 1
 This fully wooden and independent home is located above Plagne Montalbert in the hamlet of Montgésin, 1500 meters high, which host a beautiful chapel from the 17th century.  
 
 
-Skiers can easily reach the new Plagne Montalbert gondola and enjoy the way back, down from Gentil slope which is 530 meters away.  
+Skiers can easily reach the new Plagne Montalbert gondola (a 5-minute drive with easy parking) and enjoy the way back, depending of the snow conditions, down from Gentil slope which is 530 meters away.  
 Hikers and bikers can use the sunny path down to Plagne Montalbert.  
 
 
