@@ -6,7 +6,7 @@ header:
 ---
 
 Notre chalet est situé à 1500 mètres d'altitude, au-dessus de la station de La Plagne Montalbert, au calme, dans le hameau de Montgésin.  
-Le centre de la station peut être rejoint à pied en 30 minutes, à vélo ou à ski, par un très beau chemin ensoleillé avec de belles vues sur la vallée, les sommets environnants et le Mont Blanc.
+Le centre de la station peut être rejoint à pied en 30 minutes, ou à vélo par un très beau chemin ensoleillé avec de belles vues sur la vallée, les sommets environnants et le Mont Blanc.
 
 L’hiver, les skieurs rejoindront facilement la télécabine de Montalbert assurant la liaison vers le domaine skiable de La Plagne – Paradiski : le plus simple étant un trajet de 5 minutes en voiture avec un stationnement facile. Le chalet est un point de départ pour de nombreuses explorations en raquettes, à ski de rando ou simplement à pied.
 La route de Montgésin est déneigée de bonne heure tous les jours où cela est nécessaire.
