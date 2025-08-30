@@ -5,6 +5,8 @@ header:
   overlay_image: /images/photos/1gdf_table_chalet_refuge_montgesin_plagne.jpg
 ---
 
+**Important:** The refuge is currently unavailable for booking.
+
 {% include my_gallery id=site.data.gallery_conf.gallery_accueil %}
   
 Anne et Christian, the owners, designed this comfortable chalet for a tribe of 10 people.  
