@@ -5,7 +5,7 @@ header:
   overlay_image: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg
 ---
 
-**Important :**Le refuge est actuellement indisponible à la réservation.
+**Important :** Le refuge est actuellement indisponible à la réservation.
 {: .notice--warning} 
 
 {% include my_gallery id=site.data.gallery_conf.gallery_accueil %}
