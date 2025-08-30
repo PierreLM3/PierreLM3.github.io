@@ -6,6 +6,7 @@ header:
 ---
 
 **Important:** The refuge is currently unavailable for booking.
+{: .notice--warning}
 
 {% include my_gallery id=site.data.gallery_conf.gallery_accueil %}
   
