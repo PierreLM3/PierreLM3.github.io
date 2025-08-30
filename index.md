@@ -5,6 +5,8 @@ header:
   overlay_image: /images/descriptif/1gdf_table_chalet_refuge_montgesin_plagne.jpg
 ---
 
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Important :</b> Le refuge est actuellement indisponible à la réservation.</div>
+
 {% include my_gallery id=site.data.gallery_conf.gallery_accueil %}
   
 Un art de vivre contemporain à la montagne : tel est le principe qui a guidé la conception et la décoration du chalet Le Refuge de Montgésin, destiné à accueillir une tribu ou une famille de 10 personnes. Le chalet est labellisé Famille Plus.
