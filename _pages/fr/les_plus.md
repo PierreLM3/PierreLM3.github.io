@@ -23,6 +23,3 @@ header:
   - dans le hameau, la chapelle baroque ND des Neiges que Christian ouvre chaque matin,    
   - une cave à vin de service,    
   - une machine à café Nespresso : n'oubliez pas vos capsules !    
-  
-{% include widget_resa.html %}
-    
