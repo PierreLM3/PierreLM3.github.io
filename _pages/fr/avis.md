@@ -6,12 +6,3 @@ header:
 ---
 
 Grâce aux avis déposés par nos vacanciers tout au long de l'année 2023, notre chalet s'est vu remettre à nouveau par les Gîtes de France la récompense "Trophées Clients".
-
-
-  <a href="http://www.gites-de-france-savoie.com/fiche-hebergement-73G148140.html" target="_blank" rel="noreferrer"> <img src="/images/banniere_menu/trophees_clients_2023.jpeg" alt="" width="300" height="300" style="border:10px solid white" /></a> 
-{: .text-center}
-
-Les derniers avis ci-dessous ont été recueillis par les Gîtes de France en conformité.
-<div data-widget-itea="avis" data-key="tftr8_fc" data-numgite="73G148140"></div>
-
-
