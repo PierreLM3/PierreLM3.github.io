@@ -6,29 +6,6 @@ header:
 ---
 
 <div style="display: flex;flex-flow: column wrap;justify-content: center;align-items: center;flex: 1 1 auto;height: 100%;padding-bottom: 1em;">
-  
-<table style="overflow-x: unset; width: unset; border: 1px solid #b6b6b6">
-<thead>
-<tr style="text-align: center;">
-<td>&nbsp;Dates</td>
-<td>&nbsp;Tarifs</td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">semaine hiver hors vacances scolaires Noël & hiver</td>
-<td style="text-align: center;">2100&nbsp;€</td>
-</tr>
-<tr>
-<td style="text-align: center;">semaine hiver vacances scolaires Noël & hiver</td>
-<td style="text-align: center;">3700&nbsp;€</td>
-</tr>
-<tr>
-<td style="text-align: center;">semaine été & hors saison</td>
-<td style="text-align: center;">1300&nbsp;€</td>
-</tr>
-</tbody>
-</table>
 
 </div>
   
@@ -51,5 +28,3 @@ Le contrat de location est un contrat Gîtes de France. Une assurance annulation
 Un acompte de 25 % du montant de la location est réclamé lors de l'établissement du contrat. Un dépôt de garantie d'un montant de 700 euros doit remis lors de l'entrée dans les lieux.  
 
 Les chèques vacances ANCV sont les bienvenus.  
-
-{% include widget_resa.html %}
