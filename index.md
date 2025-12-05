@@ -1,3 +1,5 @@
+![Le chat](chat.jpg)
+
 Fin d'une belle aventure. Le chalet Le Refuge de Montgésin n’est plus à louer. Il est devenu notre résidence principale après 10 ans de location saisonnière.
 
 Ce fut l’occasion de belles rencontres. Des vacanciers sont devenus des amis. Avec certains nous avons profité d’échanges de gîtes en Bretagne.
